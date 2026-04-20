@@ -18,3 +18,5 @@ Personal website: [https://gsm.machados.org](https://gsm.machados.org)
 - Computing, storage, and networking infrastructure
 - Compilers
 - AI x Web3, AgenticEx, AI Agents
+
+![](https://hit.yhype.me/github/profile?account_id=2124276)
