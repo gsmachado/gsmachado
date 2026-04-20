@@ -15,8 +15,6 @@ Personal website: [https://gsm.machados.org](https://gsm.machados.org)
 - EVM and cross-chain systems
 - Privacy tech, especially FHE, ZK, and MPC
 - Decentralized identity, DAOs, and coordination systems
-- Computing and networking infrastructure
+- Computing, storage, and networking infrastructure
 - Compilers
-- AI x Web3
-- AgenticEx
-- AI Agents
+- AI x Web3, AgenticEx, AI Agents
